@@ -15,7 +15,7 @@ const Hero = () => {
           Matheus Alves :] <br />
         </SectionTitle>
         <SectionText>
-        React Dev :] <br />
+        FULLSTACK WEB DEVELOPER  <br />
         </SectionText>
         <Button onClick={() => setDownload(file)}>Download CV</Button>
         {download && <iframe src={download} style={{ display: "none" }}></iframe>}
