@@ -4,7 +4,7 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const file = "https://download1980.mediafire.com/1015xdr27eog/z78f0al7oxa1rla/MatheusCV.pdf";
+const file = "http://download1980.mediafire.com/01op45xai1rg/z78f0al7oxa1rla/MatheusCV.pdf";
 
 const Hero = () => {
   const [download, setDownload] = useState('');
